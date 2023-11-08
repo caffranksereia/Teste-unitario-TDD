@@ -1,9 +1,9 @@
 module.exports ={
-  host:'127.0.0.1',
-  username: "root",
-  password: "docker",
-  database: "databaseauth",
-  dialect: "postgres",
+  host:,
+  username:,
+  password: ,
+  database: ,
+  dialect: ,
   operatorsAlioases: false,
   logging: false,
   define:{
