@@ -1,0 +1,3 @@
+teste unitario sao teste as funcao puras qeu dados qeu sao as mesmas variavels elas sempre retornam o mesmo retorno 
+nunca tocam os efeitos colaterais que dao errados como api etc.
+ 
