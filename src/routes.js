@@ -1,11 +1,6 @@
 const routes = require('express').Routes();
-// const {User} = require('./app/models')
-//define as routas
 
+const SessionController = require("./app/controllers/SessionController");
 
-// User.create({
-//     name:"Fabio Eduardo",
-//     email:"fabioeduardo@hotmail.com",
-//     password_hash: "12346547788"
-// })
+route.post('/session',SessionController.store)
 module.exports = routes;
